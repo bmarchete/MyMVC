@@ -1,0 +1,41 @@
+body{
+    background: url('../img/back.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.header{
+    color: white;
+    text-shadow: 0.1em 0.1em #333;
+}
+
+.borda{
+    background-color: #212e35;
+    color: white;
+    text-shadow: 0.1em 0.1em #333;
+    padding: 1em;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 3px 9px black;
+    box-shadow: 0 3px 9px black;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+
+}
+
+.titulo{
+    background-color: #989f7c;
+    color: white;
+    text-shadow: 0.1em 0.1em #333;
+    padding: 0.5em;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 3px 9px black;
+    box-shadow: 0 3px 9px black;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    margin-bottom: 1em;
+
+}
+
